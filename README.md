@@ -8,7 +8,7 @@
 
 - 🎓 **Education:** Pursuing **BS in Computer Science** at Superior University
 - 🎯 **Future Goal:** Mastering scalable full-stack architecture, building innovative tech solutions, and leading impact-driven projects.
-- 💡 **Core Interests:** Frontend Development, Mobile Apps, Interactive UI/UX Design
+- 💡 **Core Interests:** Frontend Development, Interactive UI/UX Design
 
 ---
 
@@ -33,7 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![App Development](https://img.shields.io/badge/App_Development-00D2FF?style=for-the-badge&logo=android&logoColor=white)
+![App
 
 ### 📊 Tools & Office Suite
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## 📬 Contact & Connect
+## 📬 Approch me!
 
 <p align="left">
   <a href="mailto:thebest.hzzzy@gmail.com">
